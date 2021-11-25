@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 date: 2019-05-dd
 title: "Why open source?"
@@ -12,7 +13,6 @@ tags:
   - open source
 URL: "/blog/2019/05/dd/why-open-source/"
 categories: [ Articles ]
-draft: true
 ---
 
 # Open Source

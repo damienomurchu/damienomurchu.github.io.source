@@ -1,6 +1,6 @@
 ---
+draft: true
 layout: post
-draft: false
 date: 2019-05-14
 title: "Git for devs"
 subtitle: "The git article I wish I'd read"
