@@ -7,7 +7,6 @@ subtitle: ""
 description: ""
 author: "Damien"
 image: ""
-published: true
 tags:
   - development
   - open source

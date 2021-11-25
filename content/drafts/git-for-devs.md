@@ -7,7 +7,6 @@ subtitle: "The git article I wish I'd read"
 description: ""
 author: "Damien"
 image: ""
-published: false
 tags:
   - Tag1
   - Tag2
