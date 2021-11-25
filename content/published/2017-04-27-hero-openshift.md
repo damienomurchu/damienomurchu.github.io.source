@@ -1,13 +1,12 @@
 ---
-layout: post
 draft: false
+layout: post
 date: 2017-04-27
 title: "OpenShift in 30 mins"
 subtitle: "Geting started with OpenShift"
 description: ""
 author: "@damienomurchu"
 image: ""
-published: true
 tags:
   - OpenShift
   - Containers

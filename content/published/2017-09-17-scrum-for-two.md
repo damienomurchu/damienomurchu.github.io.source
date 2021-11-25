@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 date: 2017-09-17
 title: "Scrum for two"
@@ -6,7 +7,6 @@ subtitle: "Small-scale Agile"
 description: ""
 author: "Damien"
 image: ""
-published: true
 tags:
   - Agile
   - Scrum

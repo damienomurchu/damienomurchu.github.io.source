@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 date: yyyy-mm-dd
 title: "blogPostTitle"
@@ -12,6 +13,5 @@ tags:
   - Tag2
 URL: "/blog/yyyy/mm/dd/blog-post-title/"
 categories: [ Category1 ]
-draft: true
 ---
 

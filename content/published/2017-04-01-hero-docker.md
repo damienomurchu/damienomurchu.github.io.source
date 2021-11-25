@@ -1,13 +1,12 @@
 ---
-layout: post
 draft: false
+layout: post
 date: 2017-04-01
 title: "Docker in 30 mins"
 subtitle: "Geting started with docker"
 description: ""
 author: "Damien"
 image: ""
-published: true
 tags:
   - Docker
   - Containers
