@@ -29,7 +29,7 @@ paginate = 6
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/devops_damo"
+    url = "https://twitter.com/tech_damo"
   [[params.social]]
     icon = "github"
     name = "Github"
