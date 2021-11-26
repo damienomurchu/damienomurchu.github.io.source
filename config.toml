@@ -27,13 +27,13 @@ paginate = 6
   description = "DevOps Engineer. Ever-Curious"
   menu_item_separator = " ~ "
   [[params.social]]
-    icon = "github"
-    name = "Github"
-    url = "https://github.com/damienomurchu"
-  [[params.social]]
     icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/devops_damo"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/damienomurchu"
   [[params.social]]
     icon = "linkedin"
     name = "LinkedIn"
