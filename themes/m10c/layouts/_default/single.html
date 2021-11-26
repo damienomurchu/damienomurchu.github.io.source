@@ -7,8 +7,7 @@
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
           {{ .PublishDate.Format "Jan 2, 2006" }}
-        </div>
-        <div>
+          - 
           {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
           {{ .ReadingTime }} min read
         </div>
