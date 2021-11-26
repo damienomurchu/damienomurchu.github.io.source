@@ -1,5 +1,5 @@
 baseURL = "https://damienomurchu.github.io"
-title = "tech_damo"
+title = "{{ Damien }}"
 themesDir = "themes"
 theme = "m10c"
 paginate = 6
@@ -24,8 +24,8 @@ paginate = 6
 [params]
   author = "Damien Murphy"
   avatar = "img/profile-2.jpg"
-  description = "DevOps Engineer. Ever-Curious"
-  menu_item_separator = " ~ "
+  description = "Software Engineer"
+  menu_item_separator = "~"
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
