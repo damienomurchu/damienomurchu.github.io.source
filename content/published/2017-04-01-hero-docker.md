@@ -8,10 +8,7 @@ description: ""
 author: "Damien"
 image: ""
 tags:
-  - Docker
   - Containers
-  - Dev Ops
-  - Node.js
 URL: "/blog/2017/04/01/docker-in-30-mins/"
 categories: [Articles]
 ---

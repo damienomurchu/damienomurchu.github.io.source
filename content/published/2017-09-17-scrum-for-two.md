@@ -8,9 +8,7 @@ description: ""
 author: "Damien"
 image: ""
 tags:
-  - Agile
-  - Scrum
-  - Software Development Process
+  - Software Process
 URL: "/blog/2017/09/17/scrum-for-two/"
 categories: [Articles]
 ---

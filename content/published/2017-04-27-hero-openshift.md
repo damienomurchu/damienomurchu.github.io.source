@@ -8,10 +8,7 @@ description: ""
 author: "@damienomurchu"
 image: ""
 tags:
-  - OpenShift
   - Containers
-  - Dev Ops
-  - Node.js
 URL: "/blog/2017/04/27/openshift-in-30-mins/"
 categories: [Articles]
 ---

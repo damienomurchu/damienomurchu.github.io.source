@@ -1,35 +1,26 @@
 baseURL = "https://damienomurchu.github.io"
-title = "{{ Damien }}"
+title = "@damien"
 themesDir = "themes"
 theme = "m10c"
 paginate = 6
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "categories"
+    name = "#categories"
+    url = "/categories/"
     weight = 1
   [[menu.main]]
     identifier = "tags"
-    name = "Tags"
+    name = "#tags"
     url = "/tags/"
     weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
 
 [params]
   author = "Damien Murphy"
   avatar = "img/profile-2.jpg"
-  description = "Software Engineer"
-  menu_item_separator = "~"
-  [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/tech_damo"
+  description = "Thoughts and technical content from a diverse software engineer."
+  menu_item_separator = " "
   [[params.social]]
     icon = "github"
     name = "Github"
