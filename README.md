@@ -19,7 +19,6 @@ When a draft post is ready to be published, update the front-matter in the draft
 
 The site is automatically redeployed via the [publish GitHub action][publish-gh-action]. Each merge to the `main` branch will result in this action being triggered and the site being redeployed.
 
-
 ## 
 
 
