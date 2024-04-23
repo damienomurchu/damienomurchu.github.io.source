@@ -14,6 +14,18 @@ URL: "/blog/yyyy/mm/dd/blog-post-title/"
 categories: [ Category1 ]
 ---
 
+## Uncategorised
+- how to deploy a hugo site with gh actions
+- deploying mkdocs with gh actions
+- anatomy of a gh-actions workflow file
+- use of gh actions secrets and variables
+- deploying terraform with gh actions
+- gh actions reuse mechanisms - reusable workflows, composite actions, full actions
+- gh actions security guidelines and best practices
+- deploying self-hosted runners
+- container security best practices - minimal images
+
+
 ## Linux
 - why linux, as a developer
 - setting up i3
